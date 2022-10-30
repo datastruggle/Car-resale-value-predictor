@@ -13,6 +13,12 @@ The other categorical varaiables are encoded with the help of get_dummies of pan
 
 MinMax scaler is used to scale the varaiables in range of 0 to 1. 
 
+# Models used
+
+
+Random forest regressor, Linear regressor
+
+
 # Conclusion and Methodology
 
 First I tried to fit a linear regressor model where I got a testing accuracy of 46.044 percent. 
